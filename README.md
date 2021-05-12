@@ -1,6 +1,4 @@
-### Hello there!
-
-#### My name is Lucas and I'm a frontend engineer
+### Hello there 👋 I'm Lucas
 
 * ⛹️‍ Frontend engineer at [Dasa](https://www.linkedin.com/company/dasa/jobs/)
 * 📆 Former organiser of [FrontInUdi](https://www.linkedin.com/company/frontinudi)
