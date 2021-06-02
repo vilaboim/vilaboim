@@ -8,6 +8,13 @@
 #### What I've been working with this week
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       6 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   44.75 % 
+JavaScript   3 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 % 
+JSON         2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+TypeScript   1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+```
 <!--END_SECTION:waka-->
 
 #### Get in touch
