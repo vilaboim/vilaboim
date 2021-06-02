@@ -5,6 +5,11 @@
 * 📓 Instructor at [Digital Innovation One](https://web.digitalinnovation.one/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8/)
 * ❤️ I love working with **Vue** and **React**
 
+#### What I've been working with this week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### Get in touch
 
 * 🏢 [LinkedIn](https://www.linkedin.com/in/vilaboim/)
