@@ -9,11 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 53 mins   ████████████████▒░░░░░░░░   65.32 % 
-JavaScript   3 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
-Docker       1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Vue.js       7 hrs 18 mins   ████████████████▓░░░░░░░░   66.95 % 
+JavaScript   2 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.25 % 
+Docker       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 ```
 <!--END_SECTION:waka-->
 
