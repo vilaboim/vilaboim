@@ -9,11 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     35 mins         ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Vue.js       35 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-JSON         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-JSX          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
