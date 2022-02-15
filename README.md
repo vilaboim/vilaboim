@@ -9,6 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 39 mins
+
 TypeScript   10 hrs 28 mins  ████████████████████████▓   98.18 % 
 Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
