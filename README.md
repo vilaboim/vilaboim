@@ -8,12 +8,16 @@
 #### What I've been working with this week
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   14 hrs 6 mins   ███████████████████████░░   91.59 % 
-JavaScript   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript   14 hrs 6 mins   ███████████████████████░░   91.59 %
+JavaScript   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Get in touch
