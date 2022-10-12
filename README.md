@@ -28,6 +28,7 @@ Other        19 mins         ▓░░░░░░░░░░░░░░░░
 #### Open source projects
 
 * [Vuecloak](https://github.com/vilaboim/vuecloak): 🔑 a Keycloak plugin for Vue 3
+* [Neon](https://github.com/vilaboim/slidev-theme-neon): 🦚 a [slidev](https://sli.dev/) theme
 * [Grido](https://github.com/vilaboim/grido): 🐸 a flexbox grid developed between Star Wars Rebels and A New Hope
 * [Vueverine](https://github.com/vilaboim/vueverine): 🦦 A regenerative Vue boilerplate
 * [Movie Quotes](https://github.com/vilaboim/movie-quotes): 🎥 Get popular movie quotes
