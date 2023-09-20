@@ -5,6 +5,11 @@
 * 📓 Instructor at [Digital Innovation One](https://web.digitalinnovation.one/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8/)
 * ❤️ I love working with **Vue** and **React**
 
+#### My last DEV posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### What I've been working with this week
 
 <!--START_SECTION:waka-->
@@ -19,7 +24,7 @@ JSON   0 secs          ███████████████████
 
 * 🏢 [LinkedIn](https://www.linkedin.com/in/vilaboim/)
 * ✏️ [DEV](https://dev.to/vilaboim)
-* 🐦 [Twitter](https://twitter.com/lucasvilaboim)
+* 🎄 [LinkTree](https://linktr.ee/lucasvilaboim)
 
 #### Open source projects
 
