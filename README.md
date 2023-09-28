@@ -8,6 +8,7 @@
 #### My last DEV posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuidado com o margin collapse](https://dev.to/vilaboim/cuidado-com-o-margin-collapse-3gbo)
 - [Guia básico da revisão de código](https://dev.to/vilaboim/guia-basico-da-revisao-de-codigo-202k)
 - [Register Global components in Vue 3](https://dev.to/vilaboim/register-global-components-in-vue-3-4n2c)
 <!-- BLOG-POST-LIST:END -->
