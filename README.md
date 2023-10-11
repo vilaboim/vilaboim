@@ -18,9 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             1 hr 17 mins    █████████████████▓░░░░░░░   70.69 %
-TypeScript       31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML             54 mins         ███████████████▓░░░░░░░░░   62.85 %
+TypeScript       31 mins         █████████▒░░░░░░░░░░░░░░░   36.93 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
