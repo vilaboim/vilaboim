@@ -1,8 +1,7 @@
 ### Hello there 👋 I'm Lucas
 
-* ⛹️‍ Senior frontend engineer at [cVortex](https://www.linkedin.com/company/cvortexdigital/)
-* 📆 Former organiser of [FrontInUdi](https://www.linkedin.com/company/frontinudi)
-* 📓 Instructor at [Digital Innovation One](https://web.digitalinnovation.one/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8/)
+* ⛹️‍ Senior frontend engineer
+* 📆 Volunteer at [GDG Uberlândia](https://gdg.community.dev/gdg-uberlandia/)
 * ❤️ I love working with **Vue** and **React**
 
 #### My last DEV posts
