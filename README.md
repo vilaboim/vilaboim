@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Lucas
 
-* ⛹️‍ Senior frontend engineer
+* ⛹️‍ Senior frontend engineer @ [Didomi](https://didomi.io)
 * 📆 Volunteer at [GDG Uberlândia](https://gdg.community.dev/gdg-uberlandia/)
 * ❤️ I love working with **Vue** and **React**
 
