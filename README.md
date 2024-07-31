@@ -19,9 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 34 mins   ███████████████████████░░   92.28 %
-HTML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript   4 hrs 12 mins   ████████████████████░░░░░   80.46 %
+Terraform    47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
