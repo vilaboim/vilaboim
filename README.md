@@ -19,11 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      2 hrs 44 mins   ████████████████████████░   95.78 %
-Jest Snapshot   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Git             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-TypeScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-HTML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript      1 hr 38 mins    ███████████████████████▓░   94.76 %
+Jest Snapshot   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
