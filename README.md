@@ -7,11 +7,11 @@
 #### My last DEV posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O Descompasso entre Frontend e Backend: Por que suas Rotas Devem Ser RESTful](https://dev.to/vilaboim/o-descompasso-entre-frontend-e-backend-por-que-suas-rotas-devem-ser-restful-3i7f)
 - [Guide to using Slack in remote work](https://dev.to/villageboim/guide-to-using-slack-in-remote-work-3457)
 - [Basic guide to code review](https://dev.to/villageboim/basic-guide-to-code-review-f6g)
 - [Guia de uso do Slack no trabalho remoto](https://dev.to/vilaboim/guia-de-uso-do-slack-no-trabalho-remoto-1cpp)
 - [Cuidado com o margin collapse](https://dev.to/vilaboim/cuidado-com-o-margin-collapse-3gbo)
-- [Guia básico da revisão de código](https://dev.to/vilaboim/guia-basico-da-revisao-de-codigo-202k)
 <!-- BLOG-POST-LIST:END -->
 
 #### What I've been working with this week
