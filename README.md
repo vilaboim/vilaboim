@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         4 hrs 25 mins   ███████████████▓░░░░░░░░░   63.00 %
-JavaScript   2 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   36.70 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON         2 hrs 47 mins   ██████████████▓░░░░░░░░░░   59.20 %
+JavaScript   1 hr 55 mins    ██████████░░░░░░░░░░░░░░░   40.56 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
